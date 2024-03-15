@@ -1,0 +1,118 @@
+{
+  "name": "ori-launcher",
+  "preductname": "Ori Launcher",
+  "version": "1.0.0",
+  "description": "Ori Launcher, free Minecraft launcher",
+  "main": "src/app.js",
+  "author": "Cosmic-fi",
+  "url": "",
+  "engines": {
+    "node": "^18.x.x"
+  },
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make",
+    "create-gist": "node create_gist.js",
+    "publish": "electron-forge publish",
+    "start_go": "cross-env-shell NODE_ENV=dev electron .",
+    "build": "node build.js --build",
+    "icon": "node build.js --icon=https://raw.githubusercontent.com/cosmic-fi/Ori-Launcher/main/src/assets/images/icon.png",
+    "dev": "nodemon --exec npm start"
+  },
+  "license": "CC0",
+  "nodemonConfig": {
+    "ext": "js,html,css"
+  },
+  "dependencies": {
+    "@electron/remote": "^2.0.11",
+    "axios": "^1.5.1",
+    "child_process": "^1.0.2",
+    "cross-spawn": "^7.0.3",
+    "crypto": "^1.0.1",
+    "custom-electron-titlebar": "^4.2.7",
+    "discord-rpc": "^4.0.1",
+    "dotenv": "^16.3.1",
+    "electron-squirrel-startup": "^1.0.0",
+    "electron-updater": "^6.1.1",
+    "express": "^4.18.2",
+    "firebase": "^10.5.0",
+    "fs": "^0.0.1-security",
+    "gnews": "^1.0.3",
+    "guardian-js": "^5.0.0",
+    "jquery": "^3.7.1",
+    "minecraft-java-core": "^3.7.3",
+    "minecraft-launcher-core": "^3.17.2",
+    "mongoose": "^7.6.3",
+    "msmc": "^3.1.0",
+    "newsapi": "^2.4.1",
+    "node-fetch": "^2.6.13",
+    "ori-auth": "^1.0.5",
+    "ori-core-java": "^1.4.4-beta",
+    "os": "^0.1.2",
+    "prismarine-auth": "^2.4.1",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^7.1.0",
+    "@electron-forge/maker-deb": "^7.1.0",
+    "@electron-forge/maker-rpm": "^7.1.0",
+    "@electron-forge/maker-squirrel": "^7.1.0",
+    "@electron-forge/maker-zip": "^7.1.0",
+    "@electron-forge/plugin-auto-unpack-natives": "^7.1.0",
+    "cross-env": "^7.0.3",
+    "electron": "^26.3.0",
+    "electron-builder": "^24.6.4",
+    "electron-reload": "^2.0.0-alpha.1",
+    "electron-reloader": "^1.2.3",
+    "jimp": "^0.3.5",
+    "nodemon": "^3.0.1",
+    "png2icons": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+github.com:cosmic-fi/Ori-Launcher.git"
+  },
+  "config": {
+    "forge": {
+      "packagerConfig": {
+        "icon": "./src/assets/images/icon",
+        "asar": "true",
+        "dir": "./src",
+        "platform": [
+          "linux",
+          "win32"
+        ],
+        "arch": [
+          "ia32",
+          "x64"
+        ],
+        "ignore": []
+      },
+      "makers": [
+        {
+          "name": "@electron-forge/maker-squirrel",
+          "config": {
+            "name": "electron_quick_start"
+          }
+        },
+        {
+          "name": "@electron-forge/maker-zip",
+          "platforms": [
+            "darwin"
+          ]
+        },
+        {
+          "name": "@electron-forge/maker-deb",
+          "config": {}
+        },
+        {
+          "name": "@electron-forge/maker-rpm",
+          "config": {}
+        }
+      ]
+    }
+  }
+}
