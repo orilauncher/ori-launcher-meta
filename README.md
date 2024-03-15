@@ -30,7 +30,7 @@ Crafted for Minecraft Enthusiasts: Ori Launcher presents a bespoke solution for 
 
 To install Ori Launcher, follow these steps:
 
-1. Download the latest release from the [releases page](https://github.com/cosmic-fi/Ori-Launcher2.0-Beta/#) ```Comming soon```.
+1. Download the latest release from the [RELEASES](https://github.com/ory-on/Ori-Launcher/releases).
 2. Extract the downloaded archive to your desired location.
 3. Run the executable file to start Ori Launcher.
 
