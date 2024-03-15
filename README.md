@@ -19,11 +19,12 @@ Crafted for Minecraft Enthusiasts: Ori Launcher presents a bespoke solution for 
 - **Customizable Experience**: Tailor your Minecraft gameplay by selecting specific versions.
 
 ## Getting Started
-
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Contributing](#contributing)
-4. [License](#license)
+| Table of content |
+|----------|
+| [Installation](#installation) |
+| [Usage](#usage) |
+| [Contributing](#contributing) |
+| [License](#license) |
 
 ## Installation
 
