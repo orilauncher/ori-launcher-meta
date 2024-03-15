@@ -1,11 +1,11 @@
 <p align="center"><img src="https://github.com/ory-on/Ori-Launcher/assets/64766541/feaa654e-e0dc-4fa3-b475-d8e3215ff02d" alt="icon-launcher"></p>
 
 [<p align="center">]()
-![GitHub all releases](https://img.shields.io/github/downloads/cosmic-fi/Ori_Launcher/total?style=for-the-badge)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/cosmic-fi/Ori_Launcher?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/ory-on/Ori-Launcher/total?style=for-the-badge)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/ory-on/Ori-Launcher?style=for-the-badge)
 [<p align="center">]()
-![GitHub forks](https://img.shields.io/github/forks/cosmic-fi/Ori_Launcher?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/cosmic-fi/Ori_Launcher?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/ory-on/Ori-Launcher?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/ory-on/Ori-Launcher?style=for-the-badge)
 
 Crafted for Minecraft Enthusiasts: Ori Launcher presents a bespoke solution for those who crave a refined and customized gaming journey. With a meticulous focus on user satisfaction, Ori Launcher boasts an intuitive interface, granting players effortless control over their Minecraft versions. Seamlessly navigate through various iterations of the game, courtesy of Ori Launcher's efficient design, enabling users to effortlessly select, download, and launch their desired Minecraft editions. With Ori Launcher, players gain unprecedented flexibility to tailor their gaming experiences to perfection. Elevate your Minecraft adventure with Ori Launcher — the ultimate gateway to limitless creativity and exploration.
 
