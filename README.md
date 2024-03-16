@@ -1,4 +1,4 @@
-![home](https://github.com/ory-on/Ori-Launcher/assets/64766541/feaa654e-e0dc-4fa3-b475-d8e3215ff02d)
+![home](https://raw.githubusercontent.com/ory-on/Ori-Launcher/main/custom_assets/banner-1.png)
 
 [<p align="center">]()
 ![GitHub all releases](https://img.shields.io/github/downloads/ory-on/Ori-Launcher/total?style=for-the-badge)
