@@ -12,7 +12,7 @@ Crafted for Minecraft Enthusiasts: Ori Launcher presents a bespoke solution for 
 
 [<p align="center">]()
 [<p align="center">]()
-<p align="center"><img src="https://github.com/ory-on/Ori-Launcher/assets/64766541/43600035-c56d-4b1e-b6e7-2442aee30fc8" alt="icon-launcher"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ory-on/Ori-Launcher/main/custom_assets/header-1.png" alt="icon-launcher"></p>
 
 ## Features
 
