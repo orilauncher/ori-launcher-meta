@@ -46,11 +46,11 @@ To use Ori Launcher, follow these steps:
 
 Ori Launcher is supported on the following platforms:
 
-| Platforms | Support |
-|----------|----------|
-| Windows | ✅ |
-| MacOS | ✅ |
-| Linux | ❌ |
+| Platforms | Support | Tested |
+|----------|----------|----------|
+| Windows | ✅ | ❌ |
+| MacOS | ✅ | ❌ |
+| Linux | ❌ | ❌ |
   
 ## Contributing
 
