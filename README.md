@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/ory-on/Ori-Launcher/assets/64766541/feaa654e-e0dc-4fa3-b475-d8e3215ff02d" alt="icon-launcher"></p>
+![home](https://github.com/ory-on/Ori-Launcher/assets/64766541/feaa654e-e0dc-4fa3-b475-d8e3215ff02d)
 
 [<p align="center">]()
 ![GitHub all releases](https://img.shields.io/github/downloads/ory-on/Ori-Launcher/total?style=for-the-badge)
