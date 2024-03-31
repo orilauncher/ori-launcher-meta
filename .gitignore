@@ -1,0 +1,20 @@
+# Generated
+node_modules
+app
+test
+dist
+node-v*
+AppData
+./package.json
+package-lock.json
+.env
+create_gist.js
+docs
+build.js
+./src/panels
+./src/components
+./assets/js
+./assets/css
+out/
+
+*.scss
